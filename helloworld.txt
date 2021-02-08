@@ -1,6 +1,5 @@
 Hello, World
 I'm trying something new. 
-Finally trying!
 Trying something else now. 
 I added another line
-
+I added this line in the class. 
